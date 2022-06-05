@@ -1,0 +1,89 @@
+/*! danmoulson.com v1.0.0 | (c) 2022  | ISC License | git+https://github.com/moulson/portfolio.git */
+/* line 5, src/sass/application.scss */
+.row {
+  max-width: 1333px;
+  margin: auto;
+  padding: 40px 0;
+  align-items: center;
+  justify-content: center;
+}
+
+/* line 12, src/sass/application.scss */
+.img-container {
+  text-align: center;
+}
+
+/* line 14, src/sass/application.scss */
+.img-container img {
+  width: 100%;
+  margin: auto;
+  height: auto;
+}
+
+/* line 19, src/sass/application.scss */
+.img-container .logo {
+  max-width: 239px;
+}
+
+/* line 23, src/sass/application.scss */
+.black {
+  background-color: #1e1e1e;
+  color: #fff;
+}
+
+/* line 26, src/sass/application.scss */
+.black .card {
+  color: #1e1e1e;
+  margin: 0 10px;
+}
+
+/* line 31, src/sass/application.scss */
+.white {
+  color: #1e1e1e;
+  background-color: #fff;
+}
+
+/* line 35, src/sass/application.scss */
+h1 {
+  color: #644f92;
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+/* line 39, src/sass/application.scss */
+h1.left {
+  text-align: left;
+}
+
+/* line 43, src/sass/application.scss */
+p {
+  font-size: 18px;
+}
+
+/* line 47, src/sass/application.scss */
+.profile-pic {
+  -webkit-filter: grayscale(100);
+          filter: grayscale(100);
+  max-height: 300px;
+  max-width: 300px;
+}
+
+/* line 54, src/sass/application.scss */
+.faq h2 {
+  font-size: 19px;
+}
+
+/* line 59, src/sass/application.scss */
+a {
+  color: #1e1e1e;
+}
+
+/* line 62, src/sass/application.scss */
+i {
+  margin-right: 15px;
+}
+
+/* line 65, src/sass/application.scss */
+#contact {
+  margin-bottom: 100px;
+}
